@@ -1,1 +1,2 @@
-# Capstone-Project-for-Customer-Segmentation-Mall-Customers
+# Capstone Project For Customer Segmentation (Mall Customers)
+
