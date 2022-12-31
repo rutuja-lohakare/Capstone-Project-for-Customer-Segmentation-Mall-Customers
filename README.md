@@ -1,4 +1,4 @@
-# Capstone Project For Customer Segmentation (Mall Customers)
+# Capstone Project - Customer Segmentation (Mall Customers)
 The purpose of this project is to use data analysis techniques to understand customer behavior and segment them into different groups. The goal is to identify patterns in the data that can be used to make informed decisions about marketing campaigns and strategies. The project uses a Jupyter Notebook to explore the dataset and apply K-Means clustering to group the customers. The ultimate goal is to gain insight into how customers behave and spend their money in order to improve marketing efforts.
 
 ## Dataset Description
