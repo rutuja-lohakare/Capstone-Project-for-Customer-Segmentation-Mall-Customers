@@ -5,7 +5,7 @@ This repository presents a capstone project focused on understanding mall custom
 
 ## Dataset Description
 
-The dataset contains customer data that comprises five attributes, namely customer loyalty, which is the idea assigned to the customer visiting the mall, gender of the customer, age of the customer and income and spending score of the customer visiting the mall spending score to something which is assigned to a customer based on the behavior and purchasing items from the mall in the schools.
+The dataset contains customer data that comprises five attributes, namely customer loyalty, which is the idea assigned to the customer visiting the mall, gender of the customer, age of the customer, and income and spending score of the customer visiting the mall.
 
 ## Project Overview
 - **Objective**: To identify distinct customer segments in a retail mall setting.
